@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.ionic.cs.cap.camera",
   "appName": "cs-demo-cap-camera",
   "bundledWebRuntime": false,
   "npmClient": "npm",
